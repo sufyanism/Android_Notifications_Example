@@ -20,6 +20,7 @@ https://github.com/user-attachments/assets/5eabefc9-932b-4fd9-bd31-bbbab98f2632
 flutter doctor
 
 ### Set Up Android Emulator or Physical Device
+Ensure ANDROID_HOME is set
 
 ## Run the Project
 Open your Flutter project folder in terminal or VS Code.

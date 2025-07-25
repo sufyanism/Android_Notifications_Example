@@ -1,3 +1,5 @@
+# Simple notifications Application
+
 ### Install Android Studio
 * Download Studio `https://developer.android.com/studio` and once installed, launch Android Studio.
 * Open Your Project & Open an existing project from the Android Studio home screen.

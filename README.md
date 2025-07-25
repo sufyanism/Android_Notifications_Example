@@ -26,9 +26,9 @@ Ensure ANDROID_HOME is set
 Open your Flutter project folder in terminal or VS Code.
 
 ## Run:
-flutter clean.
-flutter pub get.
-flutter run
+1. flutter clean
+2. flutter pub get
+3. flutter run
 
 ## (Optional) Run via Android Studio 
 1. Open Android Studio.

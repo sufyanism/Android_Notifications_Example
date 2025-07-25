@@ -30,8 +30,8 @@ flutter pub get
 flutter run
 
 ## (Optional) Run via Android Studio 
-Open Android Studio.
-Open your Flutter project.
-Select main.dart
-Choose the target device (emulator/phone).
-Click Run.
+1. Open Android Studio.
+2. Open your Flutter project.
+3. Select main.dart
+4. Choose the target device (emulator/phone).
+5. Click Run.
